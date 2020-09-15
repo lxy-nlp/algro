@@ -1,4 +1,4 @@
-package Algor.sort;
+package Algor.Sort;
 
 public class Sorts {
     // 冒泡排序
@@ -72,7 +72,7 @@ public class Sorts {
         int n = arr.length;
         int h = 1;
         while(h<n/3) h = 3*h+1; // 初始 增量 h 的确定
-        while(h>=1){
+        while(h>=1){ // 每一轮减少增量
             for(int i=h;i<n;i++){
                 for(int j =i;j>=h&&less(arr[i],arr[j-h]);j-=h){
                     exch(arr,j,j-h);
@@ -90,6 +90,7 @@ public class Sorts {
         for(int i=1;i<a.length;i++){
             if(less(a[i],a[i-1])) return false;
         }
+        return true;
     }
 
     public static void exch(Comparable[] a,int i,int j){

@@ -1,4 +1,4 @@
-package Algor;
+package Algor.DataStructure;
 
 import java.util.Scanner;
 

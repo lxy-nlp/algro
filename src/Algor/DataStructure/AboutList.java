@@ -1,4 +1,4 @@
-package Algor;
+package Algor.DataStructure;
 
 public class AboutList {
 

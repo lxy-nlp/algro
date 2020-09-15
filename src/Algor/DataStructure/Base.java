@@ -1,4 +1,4 @@
-package Algor;
+package Algor.DataStructure;
 import java.util.*;
 
 public class Base {
@@ -94,7 +94,7 @@ public class Base {
     }
 
     public static void printScore(){
-        System.out.println("please input data")
+        System.out.println("please input data");
         HashMap score = new HashMap();
         while(true){
             Scanner input = new Scanner(System.in);
@@ -126,7 +126,7 @@ public class Base {
      * */
 
     public static void bag(){
-        Bag<Double> numbers
+        Bag<Double> numbers;
     }
 }
 

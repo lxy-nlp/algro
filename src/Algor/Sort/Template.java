@@ -1,4 +1,4 @@
-package Algor.sort;
+package Algor.Sort;
 
 public class Template {
     //some template

@@ -2,78 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708ba1e1-7f20-4635-bf8b-b277b88432dd" name="Default Changelist" comment="贪心算法">
-      <change afterPath="$PROJECT_DIR$/src/AboutCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/AboutList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/Base01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/sort/Sorts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algor/sort/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/DataStructure/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/DataStructure/GenericTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/Search/BInaryTreeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/Search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/Search/SequentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/Sort/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algor/Sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/self_exercise/Execrcise03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/self_exercise/Exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/self_exercise/Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/self_exercise/GenericTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/AboutList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algor/DataStructure/AboutList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algor/DataStructure/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/Base01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algor/DataStructure/Base01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/sort/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algor/Sort/Sorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algor/sort/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algor/Sort/Template.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algor/AboutList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2470">
-              <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algor/sort/Sorts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1558">
-              <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algor/sort/Template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk/lib/src.zip!/java.base/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2147">
-              <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algor/sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,102 +59,38 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/threads.java" />
-        <option value="$PROJECT_DIR$/src/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/GenericsDemo.java" />
-        <option value="$PROJECT_DIR$/src/ReflectDemo.java" />
-        <option value="$PROJECT_DIR$/src/Algor/Base01.java" />
-        <option value="$PROJECT_DIR$/src/Algor/Base.java" />
-        <option value="$PROJECT_DIR$/src/AboutCollections.java" />
-        <option value="$PROJECT_DIR$/src/Algor/AboutList.java" />
-        <option value="$PROJECT_DIR$/src/Algor/sort/Sorts.java" />
-        <option value="$PROJECT_DIR$/src/Algor/sort/Template.java" />
-        <option value="$PROJECT_DIR$/src/Algor/sort/MergeSort.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="555" />
-    <option name="y" value="16" />
-    <option name="width" value="1304" />
-    <option name="height" value="1045" />
-  </component>
+  <component name="ProjectId" id="1dRpNslMP4viwaeqvRdpDyfZf1y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="baseofJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baseofJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baseofJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baseofJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baseofJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baseofJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="baseofJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baseofJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algor" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Git_res/algo-master/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/下载/Java-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Base">
+  <component name="RunManager" selected="Application.GenericTree">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algor.Base" />
+      <option name="MAIN_CLASS_NAME" value="Algor.DataStructure.Base" />
       <module name="basisOfJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algor.*" />
+          <option name="PATTERN" value="Algor.DataStructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +99,37 @@
       </method>
     </configuration>
     <configuration name="Base01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algor.Base01" />
+      <option name="MAIN_CLASS_NAME" value="Algor.DataStructure.Base01" />
       <module name="basisOfJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algor.*" />
+          <option name="PATTERN" value="Algor.DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="self_exercise.Exercise01" />
+      <module name="basisOfJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="self_exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="self_exercise.GenericTree" />
+      <module name="basisOfJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="self_exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,20 +144,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="basisOfJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericTree" />
+        <item itemvalue="Application.Exercise01" />
         <item itemvalue="Application.Base" />
         <item itemvalue="Application.Base01" />
         <item itemvalue="Application.ReflectDemo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -255,6 +193,13 @@
       <workItem from="1592113613740" duration="1300000" />
       <workItem from="1592182223467" duration="14235000" />
       <workItem from="1592397009397" duration="83000" />
+      <workItem from="1592397723623" duration="9360000" />
+      <workItem from="1592571839190" duration="4219000" />
+      <workItem from="1592725440944" duration="1809000" />
+      <workItem from="1593653796839" duration="20845000" />
+      <workItem from="1595658607594" duration="640000" />
+      <workItem from="1599875603769" duration="8699000" />
+      <workItem from="1600133492661" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="贪心算法">
       <created>1575898052576</created>
@@ -273,9 +218,6 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62897000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -285,45 +227,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="444" y="13" width="1043" height="836" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Designer" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3605442" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37428573" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.49285713" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.28857142" />
-      <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="15" weight="0.32991803" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="SciView" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -331,14 +234,89 @@
     <MESSAGE value="贪心算法" />
     <option name="LAST_COMMIT_MESSAGE" value="贪心算法" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593914213738">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="546" y="346" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593914213738" />
+    <state x="671" y="128" width="867" height="835" key="CommitChangelistDialog2" timestamp="1600136023531">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="671" y="128" width="867" height="835" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1600136023531" />
+    <state x="1307" y="319" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593913508159">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1307" y="319" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593913508159" />
+    <state width="1799" height="275" key="GridCell.Tab.0.bottom" timestamp="1593915415659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593915415659" />
+    <state width="1799" height="275" key="GridCell.Tab.0.center" timestamp="1593915415659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593915415659" />
+    <state width="1799" height="275" key="GridCell.Tab.0.left" timestamp="1593915415659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593915415659" />
+    <state width="1799" height="275" key="GridCell.Tab.0.right" timestamp="1593915415659">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593915415659" />
+    <state width="1799" height="275" key="GridCell.Tab.1.bottom" timestamp="1593915451084">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593915451084" />
+    <state width="1799" height="275" key="GridCell.Tab.1.center" timestamp="1593915451083">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593915451083" />
+    <state width="1799" height="275" key="GridCell.Tab.1.left" timestamp="1593915451083">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593915451083" />
+    <state width="1799" height="275" key="GridCell.Tab.1.right" timestamp="1593915451084">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="275" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593915451084" />
+    <state x="484" y="200" key="SettingsEditor" timestamp="1599876786169">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="484" y="200" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1599876786169" />
+    <state x="729" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1600133493155">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="729" y="369" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600133493155" />
+    <state x="752" y="51" width="1264" height="1053" key="dock-window-1" timestamp="1600133519358">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="752" y="51" width="1264" height="1053" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1600133519358" />
+    <state x="410" y="152" width="1436" height="910" key="new project wizard" timestamp="1595658711498">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="410" y="152" width="1436" height="910" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1595658711498" />
+    <state x="1281" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1593658746801">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1281" y="267" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1593658746801" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algor/Base.java</url>
+          <url>file://$PROJECT_DIR$/src/Algor/DataStructure/Base.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/self_exercise/Exercise01.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/self_exercise/GenericTree.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -351,137 +329,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-    <entry file="file://$PROJECT_DIR$/src/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenericsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
-          <folding>
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="242" column="18" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
-          <folding>
-            <element signature="e#10105#10106#0" expanded="true" />
-            <element signature="e#10188#10189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/Base01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1186">
-          <caret line="163" column="37" selection-start-line="163" selection-start-column="37" selection-end-line="163" selection-end-column="37" />
-          <folding>
-            <element signature="e#3083#3084#0" expanded="true" />
-            <element signature="e#3112#3113#0" expanded="true" />
-            <element signature="e#3508#3509#0" expanded="true" />
-            <element signature="e#3532#3533#0" expanded="true" />
-            <element signature="e#3814#3815#0" expanded="true" />
-            <element signature="e#3971#3972#0" expanded="true" />
-            <element signature="e#4010#4011#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AboutCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="e#544#552#0" expanded="true" />
-            <element signature="e#601#609#0" expanded="true" />
-            <element signature="e#977#993#0" expanded="true" />
-            <element signature="e#1555#1570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="423" column="13" selection-start-line="423" selection-start-column="13" selection-end-line="423" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/AboutList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2470">
-          <caret line="130" column="5" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/sort/Sorts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/sort/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk/lib/src.zip!/java.base/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2147">
-          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algor/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
