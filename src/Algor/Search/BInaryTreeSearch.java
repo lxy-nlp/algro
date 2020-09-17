@@ -85,8 +85,5 @@ public class BInaryTreeSearch<Key extends Comparable<Key>,Value> {
         else return size(x.left);
     }
 
-    public static void main(String args[]){
-
-    }
 }
 
