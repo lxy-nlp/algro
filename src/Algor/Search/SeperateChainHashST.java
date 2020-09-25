@@ -1,5 +1,9 @@
 package Algor.Search;
 
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
 public class SeperateChainHashST<Key,Value> {
     private int N;
     private int M;
@@ -37,6 +41,34 @@ public class SeperateChainHashST<Key,Value> {
 
     public Iterable<Key> keys()
     {
+        Queue<Key> queue = new LinkedList<Key>();
+        for(int i = 0; i < M; i++)
+        {
+            for(Key key:st[i].keys())
+                queue.add(key);
+        }
+        return queue;
+    }
 
+    public void delete(Key key)
+    {
+        int i = hash(key);
+        if(st[i].contains(key))
+            N--;
+        st[i].delete(key);
+    }
+    public boolean contains(Key key)
+    {
+        return get(key) != null;
+    }
+
+    public int size()
+    {
+        return N;
+    }
+
+    public boolean isEmpty()
+    {
+        return size() == 0;
     }
 }

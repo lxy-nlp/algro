@@ -53,7 +53,7 @@ class BinaryTree{
                 currentNode = currentNode.left;
                 isLeftChild = true;
             }
-            else(value > currentNode.getValue())
+            else if (value > currentNode.getValue())
             {
                 parentNode = currentNode;
                 currentNode = currentNode.right;
